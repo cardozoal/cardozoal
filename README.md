@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Backend dev: PHP, Wordpress, Mysql, hosting**
+- 🌱 I’m currently learning **Python, Wordpress, Mysql, hosting**
 
 - 📫 How to reach me **cardozoalan2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/alan-cardozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alan-cardozo" height="30" width="40" /></a>
-<a href="https://twitter.com/alicks0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alicks0" height="30" width="40" /></a>
+<a href="https://twitter.com/alicks90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alicks90" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alancardozo2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alancardozo2000" height="30" width="40" /></a>
 <a href="https://instagram.com/system.alan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="system.alan" height="30" width="40" /></a>
 </p>
