@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cardozoal" alt="cardozoal" /></a> </p>
-
 - 🌱 I’m currently learning **Backend dev: PHP, Wordpress, Mysql, hosting**
 
 - 📫 How to reach me **cardozoalan2000@gmail.com**
